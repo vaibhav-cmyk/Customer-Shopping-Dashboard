@@ -83,3 +83,6 @@ Python (pandas, numpy, matplotlib, seaborn)
 PostgreSQL
 
 Power BI
+
+![Dashboard Preview](dashboard.png)
+
