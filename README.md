@@ -84,5 +84,5 @@ PostgreSQL
 
 Power BI
 
-![Dashboard Preview]([dashboard.png](https://github.com/vaibhav-cmyk/Customer-Shopping-Dashboard/blob/main/customer%20behaviour.png))
+
 
